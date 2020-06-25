@@ -47,7 +47,16 @@ h4{
     .container{
         width:360px;
     }
+    h2{
+        color: white;
+        text-align: center;
+        text-decoration: underline;
+    }
     .btn{
         width: 83px;
+    }
+    h4{
+        color: white;
+        text-align: center;
     }
 }
